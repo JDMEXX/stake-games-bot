@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Stake Games Bot](https://github.com/JDMEXX/stake-games-bot/blob/main/Stake%20Mines%20Bot%20Interface.png)
+![Stake Games Bot](https://github.com/JDMEXX/stake-games-bot/blob/main/Stake%20Games%20Bot.png)
 
 </div>
 
