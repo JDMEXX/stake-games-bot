@@ -1,7 +1,9 @@
 ## 🎰 Stake Games Bot: Ultimate Automation & Strategy Suite
 
 <div align="center">
-![Preview](./preview.png)
+  
+![Stake Games Bot](https://github.com/JDMEXX/stake-games-bot/blob/main/Stake%20Mines%20Bot%20Interface.png)
+
 </div>
 
 ---
