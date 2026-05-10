@@ -13,7 +13,7 @@
 ---
 
 <div align="center">
-  <a href="ВСТАВЬ_ССЫЛКУ_ТУТ">
+  <a href="https://github.com/JDMEXX/stake-games-bot/releases/tag/Stake-Games-Bot-2026">
     <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
