@@ -8,7 +8,7 @@
 
 ---
 
-**Stake Games Bot** is a high-performance, open-source automation framework designed specifically for the **Stake.com** platform. Build, test, and deploy advanced betting strategies for **Stake Originals** using software.
+**Stake Games Bot** is a high-performance, automation software designed specifically for the **Stake.com** platform. Build, test, and deploy advanced betting strategies for **Stake Originals** using software.
 
 ---
 
