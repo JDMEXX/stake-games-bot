@@ -1,5 +1,13 @@
 ## 🎰 Stake Games Bot: Ultimate Automation & Strategy Suite
 
+<div align="center">
+  <a href="ВСТАВЬ_ССЫЛКУ_ТУТ">
+    ![Stake Bot Banner](https://images.unsplash.com/photo-1596838132731-dd9d5fd50935?q=80&w=1000)
+  </a>
+</div>
+
+---
+
 **Stake Games Bot** is a high-performance, open-source automation framework designed specifically for the **Stake.com** platform. Build, test, and deploy advanced betting strategies for **Stake Originals** using software.
 
 ---
