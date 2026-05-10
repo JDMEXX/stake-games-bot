@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="ВСТАВЬ_ССЫЛКУ_ТУТ">
-    <img src="https://img.shields.io/badge/DOWNLOAD-STABLE%20BUILD-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
@@ -58,7 +58,7 @@ The bot generates a live performance table in your console:
 
 <div align="center">
   <a href="ВСТАВЬ_ССЫЛКУ_ТУТ">
-    <img src="https://img.shields.io/badge/DOWNLOAD-STABLE%20BUILD-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
@@ -88,7 +88,7 @@ Stake.com, Stake Bot, Gambling Bot, Crypto Betting Bot, Dice Strategy, Limbo Sni
 
 <div align="center">
   <a href="ВСТАВЬ_ССЫЛКУ_ТУТ">
-    <img src="https://img.shields.io/badge/DOWNLOAD-STABLE%20BUILD-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
+    <img src="https://img.shields.io/badge/DOWNLOAD-STAKE%20BOT-28A745?style=for-the-badge&logo=python&logoColor=white" width="300">
   </a>
 </div>
 
